@@ -14,5 +14,3 @@ I used Visual Studio Code as code editor...
 - 👽 Following me on Github 👉 [Link](https://github.com/abdullah0912/)
 - 💻 You can connect with me from email on 👉 [abdullahkasgar2494@gmail.com](abdullahkasgar2494@gmail.com)
 
-
-![giphy](https://user-images.githubusercontent.com/88820048/167713029-812de49b-2df0-431d-87b1-fa0bf6060065.gif)
