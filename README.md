@@ -1,4 +1,4 @@
-# Dart_Projects
+# Dart_Basics
 Hello friends, here are the basic commands about the dart software language,
 Detailed explanation of the concepts related to (Variables, Functions, Classes, Objects, etc.) is included in the codes.
 I used Visual Studio Code as code editor...
