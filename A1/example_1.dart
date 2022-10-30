@@ -5,12 +5,16 @@ void main() {
 
   int userMoney = 2000;
   String userName = 'Mehmet Ali';
-  userMoney = userMoney + 500;
+  userMoney += 500;
 
   print('Merhaba $userName $userMoney TL');
 
   print('--------------------------');
 
-  userMoney = userMoney - 1500;
+  userMoney -= 1500;
   print('Paranız değer kaybetti $userMoney TL');
+
+  double aliMoney = 119.99;
+  aliMoney /= 2;
+  print('Ali bey paranız $aliMoney TL');
 }
