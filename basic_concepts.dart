@@ -173,11 +173,11 @@ main() {
 // Objects - Nesneler:
 
 class kapi {
-  String renk;
-  String uretim_yili;
-  num yukseklik;
-  num genislik;
-  String malzeme;
+  late String renk;
+  late String uretim_yili;
+  late num yukseklik;
+  late num genislik;
+  late String malzeme;
 }
 
 // String isim;
