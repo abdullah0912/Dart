@@ -12,5 +12,5 @@ void main() {
   print('--------------------------');
 
   userMoney = userMoney - 1500;
-  print('Merhaba $userName $userMoney TL');
+  print('Paranız değer kaybetti $userMoney TL');
 }
