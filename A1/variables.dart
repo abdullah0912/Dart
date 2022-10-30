@@ -1,4 +1,4 @@
-void Degiskenler() {
+void main(List<String> args) {
   print('Hello My First Application');
 
   // Litarels = Sabitler.
