@@ -1,5 +1,3 @@
-
-
 whiledowhile() {
   List listemiz = [
     "Ahmet",
