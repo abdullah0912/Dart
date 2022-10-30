@@ -3,7 +3,7 @@ void main() {
   int user_money = 80;
   user_money ~/= 20;
 
-  print(user_name + ' ' + 'bey paranız' + ' ' + '$user_money');
+  print(user_name + ' ' + 'bey paranız' + ' ' + '$user_money TL');
   // int veri tipiyle yukarıdaki gibi tip dönüşümü için ~ işareti kullanılır
 
   print('------------------');
@@ -13,5 +13,5 @@ void main() {
   double userMoney = 80;
   userMoney /= 20;
 
-  print(userName + ' ' + 'bey paranız' + ' ' + '$userMoney');
+  print(userName + ' ' + 'bey paranız' + ' ' + '$userMoney TL');
 }
