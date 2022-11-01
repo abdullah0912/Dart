@@ -44,10 +44,8 @@ class Ev {
 
 class Ogrenci {
   // Class fields 👇
-  String ogrenciAdi = 'Mehmet';
-  String ogrenciSoyadi = 'Kaplan';
-  int ogrenciDogumYili = 2006;
-  int ogrenciOkulNo = 1893;
+  String ogrenciAdi = 'Mehmet', ogrenciSoyadi = 'Kaplan';
+  int ogrenciDogumYili = 2006, ogrenciOkulNo = 1893;
 
   // Class function
   void ogrenciGoster() {
