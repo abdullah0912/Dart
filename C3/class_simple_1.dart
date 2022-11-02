@@ -18,7 +18,7 @@ void main() {
     <constructors> 
     <functions> 
     }
-  */
+*/
 
 class Araba {
   // Our fields 👇
@@ -57,7 +57,7 @@ class Ogrenci {
   }
 }
 
-  /*
+/*
     - Fields : A field is any variable declared in a class. Fields represent data pertaining to objects.
 
     - Setters and Getters : Allows the program to initialize and retrieve the values of the fields of a class.
@@ -68,4 +68,4 @@ class Ogrenci {
 
     - Functions : Functions represent actions an object can take.
     They are also at times referred to as methods.
-  */
+*/
