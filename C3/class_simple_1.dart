@@ -42,12 +42,15 @@ class Ev {
   }
 }
 
+// Bir öğrenci class'ı tanımla
+// Alan ve fonksiyonlarını ver
+
 class Ogrenci {
   // Class fields 👇
   String ogrenciAdi = 'Mehmet', ogrenciSoyadi = 'Kaplan', ogrenci2Adi = 'Ayse', ogrenci2Soyadi = 'Gul';
   int ogrenciDogumYili = 2006, ogrenciOkulNo = 1893, ogrenci2DogumYili = 1996, ogrenci2OkulNo = 2189;
 
-  // Class function
+  // Class function 👇
   void ogrenciGoster() {
     print(ogrenciAdi + ' ' + ogrenciSoyadi + ', ' + '$ogrenciOkulNo');
     print(ogrenci2Adi + ' ' + ogrenci2Soyadi + ', ' + 'Okul no: $ogrenci2OkulNo' + ', ' + 'Doğum yılı: $ogrenci2DogumYili');
