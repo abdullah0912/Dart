@@ -1,4 +1,6 @@
 void main() {
+  // Sabit bir banka ismi tanımla
+  // user1 ekle ve user1Money'i
   const bankName = 'Kasgar Bank';
   const user1Name = 'Ali';
   double user1Money = 100.000;
