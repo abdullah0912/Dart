@@ -15,3 +15,30 @@ I used Visual Studio Code as code editor...
 - 💻 You can connect with me from email on 👉 [abdullahkasgar2494@gmail.com](abdullahkasgar2494@gmail.com)
 
 https://www.javatpoint.com/flutter-widgets
+
+void main() {
+  Student student = new Student();
+  student.ShowStudent();
+}
+
+
+// Defining the class
+
+class Student{
+  // Defining the fields
+  final String studentName = 'Jack';
+  final String studentSurname = 'LONDON';
+  final int studentAge = 29;
+  final String studentCountry = 'USA';
+  final int studentId = 68549785269;
+
+  ShowStudent(){
+    print('Student Name: $studentName');
+    print('Student  Surname: $studentSurname');
+    print('Student Age: $studentAge');
+    print('Student Country: $studentCountry');
+    print('Student ID: $studentId');
+
+  }
+
+}
