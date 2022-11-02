@@ -19,6 +19,8 @@ https://www.javatpoint.com/flutter-widgets
 void main() {
   Student student = new Student();
   student.ShowStudent();
+  print('--------------------------');
+  student.ShowStudent2();
 }
 
 
@@ -32,13 +34,26 @@ class Student{
   final String studentCountry = 'USA';
   final int studentId = 68549785269;
 
+  final String student2Name = 'Alan';
+  final String student2Surname = 'WALKER';
+  final int student2Age = 35;
+  final String student2Country = 'Canada';
+  final int student2Id = 32564278596;
+
   ShowStudent(){
     print('Student Name: $studentName');
     print('Student  Surname: $studentSurname');
     print('Student Age: $studentAge');
     print('Student Country: $studentCountry');
     print('Student ID: $studentId');
+  }
 
+  ShowStudent2(){
+    print('Student 2 Name: $student2Name');
+    print('Student 2  Surname: $student2Surname');
+    print('Student 2 Age: $student2Age');
+    print('Student 2 Country: $student2Country');
+    print('Student 2 ID: $student2Id');
   }
 
 }
